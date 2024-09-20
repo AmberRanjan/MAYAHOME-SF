@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "12F83AF495A23919D1796FE9DE7F4268",
+  "keywordClasses": [
+    {
+      "name": "scrollActions_Tester02.Scroll_action",
+      "keywordMethods": [
+        {
+          "name": "scroll_action",
+          "parameters": [
+            {
+              "name": "swipeDirection",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "5EE63CC1E340A2B0BDBAC157DC9BB6D8",
+  "keywordClasses": [
+    {
+      "name": "methods_Tester02.FinancingPeriod_ScrollBar",
+      "keywordMethods": [
+        {
+          "name": "FinancingPeriod_ScrollBar_Years",
+          "parameters": [
+            {
+              "name": "years",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
